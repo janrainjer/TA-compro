@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/Jan/Desktop/ce-kmitl-3:2/teacher-assistant-compro/lab-1",
-      "program": "/Users/Jan/Desktop/ce-kmitl-3:2/teacher-assistant-compro/lab-1/build/Debug/outDebug"
+      "cwd": "/Users/Jan/Desktop/ce-kmitl-3:2/teacher-assistant-compro/lab-1/item-5",
+      "program": "/Users/Jan/Desktop/ce-kmitl-3:2/teacher-assistant-compro/lab-1/item-5/build/Debug/outDebug"
     }
   ]
 }
