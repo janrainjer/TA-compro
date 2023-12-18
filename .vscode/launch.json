@@ -1,4 +1,5 @@
 {
+
   "version": "0.2.0",
   "configurations": [
     {
@@ -9,5 +10,6 @@
       "cwd": "/Users/Jan/Desktop/ce-kmitl-3:2/teacher-assistant-compro/lab-1/item-5",
       "program": "/Users/Jan/Desktop/ce-kmitl-3:2/teacher-assistant-compro/lab-1/item-5/build/Debug/outDebug"
     }
-  ]
+  ] 
+  
 }
