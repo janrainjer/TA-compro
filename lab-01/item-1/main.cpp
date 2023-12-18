@@ -1,6 +1,7 @@
 /* Chapter : 1 - item : 1 - แสดงผลตามตัวอย่าง 1
 
 ให้นักศึกษาส่ง โปรแกรม HelloWorld.c ซึ่งมีข้อมูลดังนี้
+
 #include <stdio.h>
 int main()
 {
@@ -15,6 +16,6 @@ int main()
 int main()
 {
 	printf("Hello, world!\n");
-	
+
 	return 0;
 }

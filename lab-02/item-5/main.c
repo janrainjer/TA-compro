@@ -14,6 +14,7 @@ int main() {
   return 0;
 }
 */
+
 int main() {
   printf("1234567890123456789012345678901234567890\n");
   printf("%40.9s\n","I am such a hardworking student.");
