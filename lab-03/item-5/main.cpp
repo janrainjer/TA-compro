@@ -13,3 +13,19 @@
 - ตัวเลข 3 ตัวหลัง
 # ให้รับค่า input เข้ามาเป็นชนิด int เท่านั้น
 */
+
+#include <stdio.h>
+
+int main() {
+    int number;
+
+    printf("Enter magic number : ");
+    scanf("%d", &number);
+
+    printf("+1       : %d\n", number + 1);
+    printf("-1       : %d\n", number - 1);
+    printf("First 3  : %d\n", number / 1000);  
+    printf("Last 3   : %d\n", number % 1000);   
+    
+    return 0;
+}

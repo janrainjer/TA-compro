@@ -17,3 +17,14 @@ int main() {
 	return 0;
 }
 */
+
+#include <stdio.h>
+
+int main() {
+
+	char str1[] = "Computer Programming is fun.";
+	char str2[] = "Programming";
+	printf("%s%s%s",str1,str2,str2);
+
+	return 0;
+}
