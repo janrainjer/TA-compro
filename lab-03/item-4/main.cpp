@@ -9,13 +9,12 @@
 int main() {
     char str[100];
 
-    printf("*** Get input from keyboard as string ***\n");
+    printf(" *** Get input from keyboard as string ***\n");
     printf("Please input a string : ");
-    scanf(" %[^\n]", str);  // ใส่ space หน้า %[^\n] เพื่อล้าง buffer จากการรับข้อมูลก่อนหน้า
-
+    scanf(" %[^\n]", str);  
     printf("string : %s\n", str);
-    printf("string : %.7s\n", str);  // แสดงเฉพาะ 6 ตัวอักษรแรกของ string
-    printf("string : %.15s\n", str); // แสดงเฉพาะ 20 ตัวอักษรแรกของ string
+    printf("string : %.7s\n", str);  
+    printf("string : %.15s\n", str); 
 
     return 0;
 }

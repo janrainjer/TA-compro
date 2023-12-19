@@ -7,7 +7,7 @@
 int main() {
     double fahrenheit;
 
-    printf("*** Convert Fahrenheit to Celcius ****\n");
+    printf(" *** Convert Fahrenheit to Celcius ****\n");
     printf("Enter temperature in degree Fahrenheit : ");
     scanf("%lf", &fahrenheit);
 

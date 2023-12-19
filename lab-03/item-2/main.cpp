@@ -16,15 +16,15 @@
 #include <stdio.h>
 int main() {
 
-    printf("*** Show numbers in various formats. ***\n");
+    printf("*** Show a numbers in variety formats. ***\n");
 
     int num;
 
     printf("Enter an integer : ");
     scanf("%d", &num);
-    printf("Char      -> %c\n", num);
-    printf("Float     -> %.2f\n", num * 1.0);
-    printf("Int*2.5   -> %.4f\n", num * 2.5);
+    printf("Char    -> %c\n", num);
+    printf("Float   -> %.2f\n", num * 1.0);
+    printf("Int*2.5 -> %.4f\n", num * 2.5);
 
     return 0;
 }
