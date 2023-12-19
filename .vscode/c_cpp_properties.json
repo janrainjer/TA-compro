@@ -1,11 +1,10 @@
 {
-
   "configurations": [
     {
       "name": "macos-clang-arm64",
       "includePath": [
         "${workspaceFolder}/**"
-      ], 
+      ],
       "compilerPath": "/usr/bin/clang",
       "cStandard": "${default}",
       "cppStandard": "${default}",
@@ -16,5 +15,4 @@
     }
   ],
   "version": 4
-  
 }
