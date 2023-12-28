@@ -8,7 +8,7 @@
 - [Lab 01 : Basic C programming](lab-01)
 - [Lab 02 : Basic programming and display commands](lab-02)
 - [Lab 03 : Using Input Output commands and various calculations](lab-03)
-- [Lab 04 : Conditional Programming](lab-04)
+- [Lab 04 : Conditional Programming](lab-04) 
 - [Lab 05 : Recursive Programming](lab-05)
 - [Lab 06 : Recursive Programming and set conditions](lab-06)
 - [Lab 07 : Basic functions and variable scope](lab-07)
