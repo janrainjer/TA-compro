@@ -4,8 +4,7 @@
 
 # Teacher Assistant - Compro
 
-> This collection of various labs using C and C++  in the Computer Programming course at Industrial Engineering.
-
+## List all the lab - assignment 
 - [Lab 01 : Basic C programming](lab-01)
 - [Lab 02 : Basic programming and display commands](lab-02)
 - [Lab 03 : Using Input Output commands and various calculations](lab-03)
