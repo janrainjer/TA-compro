@@ -12,7 +12,7 @@
 - [Lab 05 : Recursive Programming](lab-05)
 - [Lab 06 : Recursive Programming and set conditions](lab-06)
 - [Lab 07 : Basic functions and variable scope](lab-07)
-- [Lab 08 : Array variables and structural variables](lab-08)
+- [Lab 08 : Array variables and structural variables](lab-08) 
 - [Lab 09 : Pointer variables and advanced functions](lab-09)
 - [Lab 10 : Data file](lab-10)
 - [Lab 11 : Reserved](lab-11)
